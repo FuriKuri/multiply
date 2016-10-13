@@ -22,5 +22,5 @@ Container size:
 ```
 $ docker images furikuri/multiply
 REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
-furikuri/multiply   latest              839a43772fb8        31 minutes ago      4.803 MB
+furikuri/multiply   latest              224ac38498b7        5 minutes ago       1.094 MB
 ```
